@@ -1,6 +1,7 @@
 # Loanword adoption
-In which we examine possible non-demographic, identity-based factors influencing adoption of loanwords on social media.
+This repository contains code required for a study about loanword integration.
+Please use the following citation:
 
-## Data collection
-
-We collect 5+ years of archived Twitter data (geotagged for France and Spain) and X months of streamed Twitter data.
+```
+Ian Stewart, Diyi Yang, Jacob Eisenstein. 2021. "Tuiteamos o pongamos un tuit? Investigating the Social Constraints of Loanword Integration in Spanish Social Media." Society for Computation in Linguistics.
+```
