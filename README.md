@@ -1,4 +1,4 @@
-# Loanword adoption
+# Loanword integration
 This repository contains code required for a study about loanword integration.
 Please use the following citation:
 
