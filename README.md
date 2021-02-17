@@ -1,5 +1,5 @@
 # Loanword integration
-This repository contains code required for a study about loanword integration.
+This repository contains code required for a study about loanword integration (paper available [here](https://scholarworks.umass.edu/scil/vol4/iss1/27/)).
 Please use the following citation:
 
 ```
